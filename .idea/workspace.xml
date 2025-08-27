@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8589c29-3a14-435a-8e60-b16b48b103d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f8589c29-3a14-435a-8e60-b16b48b103d7" name="Changes" comment="Added Shape interface along with implementations for drawing different classes">
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Shape.java" afterDir="false" />
     </list>
@@ -32,6 +24,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Devansh-Kesan/Software_Engineering_Project_1",
+    "accountId": "fdcc759f-d275-40c3-9b26-8094cbb50551"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -69,6 +67,29 @@
       <option name="presentableId" value="Default" />
       <updated>1756233974990</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added checkstyle.xml file">
+      <option name="closed" value="true" />
+      <created>1756289664676</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756289664676</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Shape interface along with implementations for drawing different classes">
+      <option name="closed" value="true" />
+      <created>1756289767531</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756289767531</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added pom and checkstyle.xml file" />
+    <MESSAGE value="Added checkstyle.xml file" />
+    <MESSAGE value="Added Shape interface along with implementations for drawing different classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Shape interface along with implementations for drawing different classes" />
   </component>
 </project>
