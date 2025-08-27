@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8589c29-3a14-435a-8e60-b16b48b103d7" name="Changes" comment="Added Shape interface along with implementations for drawing different classes">
+    <list default="true" id="f8589c29-3a14-435a-8e60-b16b48b103d7" name="Changes" comment="Added pom file">
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +24,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Devansh-Kesan"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Devansh-Kesan/Software_Engineering_Project_1",
@@ -83,13 +89,32 @@
       <option name="project" value="LOCAL" />
       <updated>1756289767531</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Shape interface">
+      <option name="closed" value="true" />
+      <created>1756289814808</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1756289814808</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added unit tests for ShapeDrawer">
+      <option name="closed" value="true" />
+      <created>1756289858078</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1756289858078</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added pom and checkstyle.xml file" />
     <MESSAGE value="Added checkstyle.xml file" />
     <MESSAGE value="Added Shape interface along with implementations for drawing different classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Shape interface along with implementations for drawing different classes" />
+    <MESSAGE value="Added Shape interface" />
+    <MESSAGE value="Added unit tests for ShapeDrawer" />
+    <MESSAGE value="Added pom file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added pom file" />
   </component>
 </project>
